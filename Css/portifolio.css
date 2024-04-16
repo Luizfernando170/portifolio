@@ -1,0 +1,28 @@
+
+body{
+    background-color: rgb(91, 113, 117);
+}
+h1{
+    text-align: center;
+    text-decoration: none;
+}
+fieldset{
+    background-color: rgb(10, 104, 107);
+    display: block;
+}
+legend{
+    color: antiquewhite;
+    text-align: left;
+    color: rgb(149, 168, 231);
+}
+ol{
+    text-align: justify;
+    height: 20px;
+}
+p{
+    text-align: left;
+    height: 20px;
+}
+nav{
+    text-align: center;
+}
