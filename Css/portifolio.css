@@ -25,4 +25,15 @@ p{
 }
 nav{
     text-align: center;
+    background-color: cadetblue;
+    height: 3rem;
+}
+a:hover{
+    background-color: aqua;
+}
+a:focus{
+    background-color: beige;
+}
+n:hover{
+    width: 200px;
 }
