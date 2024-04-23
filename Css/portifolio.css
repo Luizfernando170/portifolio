@@ -27,13 +27,18 @@ nav{
     text-align: center;
     background-color: cadetblue;
     height: 3rem;
-}
-a:hover{
-    background-color: aqua;
+    text-decoration: none;
 }
 a:focus{
+    text-decoration: none;
     background-color: beige;
 }
 n:hover{
     width: 200px;
+}
+img{
+    float: left;
+    height: 500px;
+    margin: 20px;
+    border: 15px solid rgb(64, 94, 107);
 }
