@@ -31,7 +31,7 @@ nav{
 }
 a:focus{
     text-decoration: none;
-    background-color: beige;
+    background-color: rgb(125, 171, 200);
 }
 n:hover{
     width: 200px;
@@ -41,4 +41,9 @@ img{
     height: 500px;
     margin: 20px;
     border: 15px solid rgb(64, 94, 107);
+}
+a{
+    width: 5px;
+    font-size: 40px;
+    text-decoration: none;
 }
